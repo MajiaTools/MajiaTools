@@ -1,3 +1,7 @@
+
+![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/logo.png)
+
+
 ## 马甲小助手是什么?
 马甲小助手是一个为开发者提供方便制作和分析马甲包的工具.
 
@@ -26,5 +30,9 @@
 
 ## 使用方法
 ### 拖入.app文件和工程跟目录
+![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step.png)
+
 ### 自定义配置
+![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step1.png)
+
 ## 部分功能会在后面逐步加上
