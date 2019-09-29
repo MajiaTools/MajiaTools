@@ -1,9 +1,24 @@
 
-![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/logo.png)
-
+<div align="center">
+<img width="100" height="100" src="MajiaTools/logo.png" alt="logo.png"/>
+</p>
+</div>
 
 ## 马甲小助手是什么?
-马甲小助手是一个为开发者提供方便制作和分析马甲包的工具.
+马甲小助手是一个为开发者提供方便制作和分析马甲包的工具.目前处于测试和完善阶段,免费开放给广大开发者使用
+
+## TODO LIST
+- [x] 修改类名
+- [x] 修改方法名
+- [x] 修改变量
+- [x] 修改文件夹
+- [x] 黑名单(文件夹,类名,方法名,变量)
+- [ ] 添加前缀(文件夹,类名,方法名,变量)
+- [ ] 修改资源
+- [ ] 添加混淆资源(辣鸡代码)
+- [ ] 加密字符串
+- [ ] 清除注释
+- [ ] 高可用性命名
 
 ## 有哪些有优点？
 
