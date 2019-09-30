@@ -16,7 +16,7 @@
 3. 输入你的账户密码，按回车键确认执行（该密码不会显示，直接输入即可）
 
 ## 使用方法
-### 拖入.app文件<font color=red>(请自行编译对应的APP文件)</font>(请自行编译对应的APP文件)和工程跟目录
+### 拖入.app文件`请自行编译对应的APP文件`和工程跟目录
 ![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step.png)
 
 ### 自定义配置
