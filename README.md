@@ -10,10 +10,17 @@
 ## 使用请必看
 如果打开提示->马甲小助手.app 已损坏，打不开。您应该将它移到废纸篓 ” 或 “ 打不开 马甲小助手.app，因为它来自身份不明的开发者
 
-**解决办法****
+**解决办法**
 1. 打开终端（Terminal.app）
 2. 拷贝粘贴 sudo spctl --master-disable，按回车键
 3. 输入你的账户密码，按回车键确认执行（该密码不会显示，直接输入即可）
+
+## 使用方法
+### 拖入.app文件<font color=red>(请自行编译对应的APP文件)</font>(请自行编译对应的APP文件)和工程跟目录
+![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step.png)
+
+### 自定义配置
+![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step1.png)
 
 ## TODO LIST(部分功能会在后面逐步加上)
 - [x] 修改类名
@@ -53,11 +60,6 @@
   * 精准替换(效果类似xcode的refactor-rename)
 * 支持多种模式,快速模式和自定义模式
 
-## 使用方法
-### 拖入.app文件和工程跟目录
-![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step.png)
 
-### 自定义配置
-![avatar](https://raw.githubusercontent.com/MajiaTools/MajiaTools/master/MajiaTools/step1.png)
 
 
